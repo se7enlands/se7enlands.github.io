@@ -4,66 +4,53 @@
 
 早晨6点，虽然天还是有点儿阴沉，但是在天边的山脉刺穿云层的地方，已经露出了些许的蓝天。我们正在向Lemaire海峡（[Lemaire Channel](http://en.wikipedia.org/wiki/Lemaire_Channel)）前进。突然，先是一阵金属撞击的声音，然后船身摇晃了一下。是撞上冰山了吗？的确，不过只是很小的而已。一块块一两米大小的浮冰几乎覆盖了所有视线内的海面。凭着加固过的船体，我们的邮轮正在破冰前进。
 
-[![Lemaire Channel, Antarctica](http://wavelet.me/wp-content/gallery/cache/990__800x640_mg_7050.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7050.jpg)
+[![Lemaire Channel, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7050.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7050.jpg)
 
 
 
 过了一个小时，我们已经驶入Lemaire海峡。 海峡长十几公里，平均宽度只有一公里。来到南极已经3天，太阳一直躲在厚厚的云层后面。幸运的是，在这段南极半岛最美丽的航道上，久违的太阳终于露出了面孔，我们有了一个蓝天白云的晴天。我们站在甲板上，没有人说话，只是默默地看着壮观的群山和海面上的倒影在我们眼前静静地滑过。
 
-[![Lemaire Channel, Antarctica](http://wavelet.me/wp-content/gallery/cache/993__800x640_mg_7126.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7126.jpg)
+[![Lemaire Channel, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7220.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7126.jpg)
 
-[![Lemaire Channel, Antarctica](http://wavelet.me/wp-content/gallery/cache/991__800x640_mg_7099.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7099.jpg)
 
-[![Lemaire Channel, Antarctica](http://wavelet.me/wp-content/gallery/cache/994__800x640_mg_7130.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7130.jpg)
 
-[![Lemaire Channel, Antarctica](http://wavelet.me/wp-content/gallery/cache/995__800x640_mg_7145.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7145.jpg)
+[![Lemaire Channel, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7130.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7130.jpg)
+
+
 
 计划中今天第一次登陆是在[Peterman岛](http://en.wikipedia.org/wiki/Petermann_Island)，这将是我们一行的最南端，也是南极半岛上Gentoo企鹅最南端的聚居地。但是当我们驶出Lemaire海峡，我们发现海面上浮冰太多，邮轮几乎不可能到达Peterman岛，所以船长和向导决定取消这次登陆。在船转弯的时候，船舷右侧的一块浮冰上有一只[豹形海豹](http://baike.baidu.com/view/1473973.htm)（Leopard Seal）在晒太阳。邮轮离它很近，但海豹对我们似乎毫无兴趣，只是抬了抬头，就又睡下了。不过你不要被它的无辜的外表和笨拙的行动所欺骗，豹形海豹是南极海域最凶猛的动物。
 
-[![A Leopard Seal at Lemaire Channel, Antarctica](http://wavelet.me/wp-content/gallery/cache/996__800x640_mg_7184.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7184.jpg)
-
-[![A Leopard Seal at Lemaire Channel, Antarctica](http://wavelet.me/wp-content/gallery/cache/997__800x640_mg_7187_crop.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7187_crop.jpg)
+[![A Leopard Seal at Lemaire Channel, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7184.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7184.jpg)
 
 我们在午饭前到达了下一个登陆点。[Port Lockroy](http://en.wikipedia.org/wiki/Port_Lockroy)是一个小海湾。发现于1904年，Port Lockroy先是被用作捕鲸站，在二战时期，这里是英国政府的军事基地。1996年，英国政府重新修复了这个站点，把它变成了一个博物馆。
 
-![Port Lockroy, Antarctic Peninsula ](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7220.jpg)
-
-
-
-[![Port Lockroy, Antarctica](http://wavelet.me/wp-content/gallery/cache/1000__800x640_mg_7261.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7261.jpg)
+[![Port Lockroy, Antarctic Peninsula ](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7220.jpg)](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7220.jpg)
 
 每年夏天，都有来自英国的志愿者在这里生活几个月。今年在这里的是四个女生。我们的邮轮派登陆艇把她们接上船和我们共进午餐。每个人都对她们在这里每天的日常生活很感兴趣。这里没有电话、收音机，更不要提电视，唯一和外界联系的方式就是电报。没有淡水，她们必须收集雪水供日常使用。因为没有任何船只，她们连最近的岛也去不了，在这个被冰雪海洋包围的小岛上，她们必须节约用水，只有在像我们这样的邮轮经过的时候，她们才有机会上船洗澡。我想夏天来南极的邮轮还不算太少，她们至少隔几天能有一顿好的午餐。当被问到为什么要选择这份工作的时候，和我们一桌的女生回答她希望她的努力能让世界有所改变。我不知道这个答案有多少出自她的内心，不过做出这样的选择还是值得尊敬的。
 
-[![Port Lockroy, Antarctica](http://wavelet.me/wp-content/gallery/cache/999__800x640_mg_7239.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7239.jpg)
+[![Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7239.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7239.jpg)
 
 吃过午餐，我们先是登上站点边的一个小岛，Jougla Point。这里有很多Gentoo企鹅和[蓝眼鸬鹚](http://baike.baidu.com/view/589257.htm)在岛上建巢。蓝眼鸬鹚背部全黑，腹部全白，和企鹅十分相似。成年鸬鹚喂幼鸟进食的方式也是和企鹅如出一辙。因为这里曾经是一个捕鲸站，海滩上摆放着复原的鲸鱼骨架。从这里遥望海湾和群山，风景一尘不染，简洁壮观。
 
-[![Port Lockroy, Antarctica](http://wavelet.me/wp-content/gallery/cache/1001__800x640_mg_7264.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7264.jpg)
+[![Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7264.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7264.jpg)
 
-[![A Gentoo Penguin, Port Lockroy, Antarctica](http://wavelet.me/wp-content/gallery/cache/1002__800x640_mg_7281.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7281.jpg)
+[![Blue-eyed Shags, Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7308.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7308.jpg)
 
-[![Blue-eyed Shags, Port Lockroy, Antarctica](http://wavelet.me/wp-content/gallery/cache/1003__800x640_mg_7308.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7308.jpg)
-
-蓝眼鸬鹚和它的幼鸟
-
-[![The Whale Skeleton on the beach of Jougla Point, Port Lockroy, Antarctica](http://wavelet.me/wp-content/gallery/cache/1004__800x640_mg_7322.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7322.jpg)
+[![The Whale Skeleton on the beach of Jougla Point, Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7322.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7322.jpg)
 
 从Jougla Point，登陆艇带我们登上Goudier岛，这是英国基地的所在地。除了把当年在这里驻扎的人留下的房间和用品改造成博物馆，英国政府还在岛上建立了一个邮局。每隔几个星期，会有船只来取信，然后取道阿根廷到英国，再寄往世界各地。今天阳光明媚，坐在博物馆门口的台阶上，天气暖得让人想要打个盹。
 
-[![The Southernmost Post Office, Port Lockroy, Antarctica](http://wavelet.me/wp-content/gallery/cache/1007__800x640_mg_7366.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7366.jpg)
+[![The Southernmost Post Office, Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7366.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7366.jpg)
 
-游客在Port Lockroy的邮局书写明信片。
 
-[![The British base at Port Lockroy, Antarctica](http://wavelet.me/wp-content/gallery/cache/1006__800x640_mg_7365.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7365.jpg)
 
-当年房间的摆设被保留下来作为博物馆。
+[![The British base at Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7365.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7365.jpg)
 
-[![The British base at Port Lockroy, Antarctica](http://wavelet.me/wp-content/gallery/cache/1008__800x640_mg_7369.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7369.jpg)
+[![The British base at Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7369.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7369.jpg)
 
-[![Port Lockroy, Antarctica](http://wavelet.me/wp-content/gallery/cache/1012__800x640_mg_7357.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7357.jpg)
+[![Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7357.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7357.jpg)
 
 我们下午4点离开Port Lockroy，踏上返航的旅程。邮轮向北穿过狭长的Neumayer水道，进入[杰拉许海峡](http://baike.baidu.com/view/586662.htm)（Gerlache Strait）。我们将在明天到达Deception Island。
 
-[![Mountain Range around Gerlache Strait, Antarctica](http://wavelet.me/wp-content/gallery/cache/1011__800x640_mg_7396_7_8_crop1.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7396_7_8_crop1.jpg)
+[![Mountain Range around Gerlache Strait, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7396_7_8_crop1.jpg)](http://wavelet.me/wp-content/gallery/antarctica/mg_7396_7_8_crop1.jpg)
 
-杰拉许海峡南极大陆一侧的群山
