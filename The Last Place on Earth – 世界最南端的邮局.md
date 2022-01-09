@@ -18,11 +18,11 @@
 
 我们在午饭前到达了下一个登陆点。[Port Lockroy](http://en.wikipedia.org/wiki/Port_Lockroy)是一个小海湾，1904年被发现。Port Lockroy先是被用作捕鲸站，在二战时期，这里是英国政府的军事基地。1996年，英国政府重新修复了这个站点，把它建成了一个博物馆。
 
-![Port Lockroy, Antarctic Peninsula ](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7221_2_3_5.jpg)
+![Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7239.jpg)
 
 每年夏天，都有来自英国的志愿者在这里生活几个月。今年在岛上的是四个女生。我们的邮轮派登陆艇把她们接上船和我们一起吃午饭。船上的游客都对她们每天的生活很感兴趣。这里没有电话、收音机，更不要提电视，唯一和外界联系的方式就是电报。没有淡水，她们必须收集融化雪水供日常使用。因为没有任何船只，她们连最近的岛也去不了，在这个被冰雪海洋包围的小岛上，她们必须节约用水，只有在像我们这样的邮轮经过的时候，她们才有机会上船洗个澡。我想夏天来南极的邮轮还不算太少，她们至少隔几天能有一顿好的午餐。当被问到为什么要选择这份工作的时候，和我们一桌的女生回答说，她希望自己的努力能让世界有所改变。这样的标准答案似乎没有什么独特之处，但是能做出这样的选择还是相当不容易的。
 
-![Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7239.jpg)
+![Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7221_2_3_5.jpg)
 
 吃过午餐，我们先是登上站点边的一个小岛，Jougla Point。这里有很多巴布亚企鹅和[蓝眼鸬鹚](http://baike.baidu.com/view/589257.htm)在岛上建巢。蓝眼鸬鹚背部全黑，腹部全白，和企鹅十分相似。成年鸬鹚喂食幼鸟的方式也是和企鹅如出一辙。因为这里曾经是一个捕鲸站，海滩上摆放着复原的鲸鱼骨架。从这里遥望海湾和群山，风景一尘不染，简洁壮观。
 
@@ -39,8 +39,6 @@
 ![The British base at Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7365.jpg)
 
 ![The British base at Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7369.jpg)
-
-![Port Lockroy, Antarctica](https://ik.imagekit.io/wavelet/2011-Antarctica/tr:n-blogs/_MG_7357.jpg)
 
 我们下午4点离开Port Lockroy，踏上返航的旅程。邮轮向北穿过狭长的Neumayer水道，进入[杰拉许海峡](http://baike.baidu.com/view/586662.htm)（Gerlache Strait）。我们将在明天到达欺骗岛（Deception Island）。
 
