@@ -1,0 +1,13 @@
+# 油菜花 （Rapeseed)
+
+- 油菜花的英文居然叫Rape Flower。
+- 油菜花是十字花科，花朵呈亮黄色，植株可长到一米高。
+- 油菜分白菜型、芥菜型和甘蓝型。白菜型油菜是常见食用菜；甘蓝型产籽量最高，在中国种植最广；芥菜型种子无毒，磨成粉末就是黄芥末。
+- 传统酿制的菜籽油芥酸成分可达30%~50%。在小白鼠身上的动物试验发现食用大量芥酸对心脏有害，但是近期试验并没有发现芥酸对人体有害。
+- Canola oil是人工培育的油菜品种，芥酸含量低于3%。
+
+
+
+| ![](C:\Users\Gang Duan\Documents\GitHub\se7enlands.github.io\Plants\images\rapeseed.jpg) | ![](C:\Users\Gang Duan\Documents\GitHub\se7enlands.github.io\Plants\images\rapeseed_drawing.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
