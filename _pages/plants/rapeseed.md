@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "油菜花"
+categories: ["植物"]
 ---
 
 # 油菜花 （Rapeseed)

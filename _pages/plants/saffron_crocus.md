@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "藏红花"
+categories: ["植物"]
 ---
 
 # 藏红花 （Saffron Crocus）
