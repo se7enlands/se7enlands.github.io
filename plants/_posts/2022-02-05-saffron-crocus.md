@@ -16,5 +16,5 @@ tags: ["植物"]
 
 |   |   |
 | - | - |
-| ![](images/saffron_crocus.jpg) | ![](images/saffron_crocus_drawing.jpg) |
+| ![](/images/plants/saffron_crocus.jpg) | ![](/images/plants/saffron_crocus_drawing.jpg) |
 |   |   |
