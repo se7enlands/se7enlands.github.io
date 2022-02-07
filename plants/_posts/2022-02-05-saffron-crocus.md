@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "藏红花"
 categories: ["植物"]
 ---
