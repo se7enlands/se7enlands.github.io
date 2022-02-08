@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "藏红花"
 tags: ["植物"]
 ---
