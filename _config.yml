@@ -176,7 +176,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
 
@@ -184,7 +183,6 @@ plugins:
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
 
@@ -250,3 +248,14 @@ defaults:
       comments: false
       share: false
       related: true
+  - scope:
+      path: "plants"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: true
+      category: "植物"
