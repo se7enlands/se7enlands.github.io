@@ -1,6 +1,7 @@
 ---
 title:  "藏红花 (Saffron Crocus)"
 tags: ["植物"]
+classes: wide
 ---
 
 * 公元前1600年克里特岛上的[米诺斯文明](https://baike.baidu.com/item/%E7%B1%B3%E8%AF%BA%E6%96%AF%E6%96%87%E6%98%8E/744324)（Minoan）的壁画上就有描绘种植藏红花的场景
@@ -11,7 +12,7 @@ tags: ["植物"]
 * 一克藏红花需要十五万朵花的花柱。
 * 藏红花在古代被认为有药用效果，埃及艳后克利奥帕特拉曾用它泡水洗澡。
 
-
 |   |   |
+| - | - |
 | ![](/plants/assets/images/saffron_crocus.jpg) | ![](/plants/assets/images/saffron_crocus_drawing.jpg) |
 | - | - |
