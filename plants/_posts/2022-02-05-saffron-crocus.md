@@ -12,7 +12,6 @@ classes: wide
 * 一克藏红花需要十五万朵花的花柱。
 * 藏红花在古代被认为有药用效果，埃及艳后克利奥帕特拉曾用它泡水洗澡。
 
-|   |   |
-| - | - |
+
 | ![](/plants/assets/images/saffron_crocus.jpg) | ![](/plants/assets/images/saffron_crocus_drawing.jpg) |
-| - | - |
+
