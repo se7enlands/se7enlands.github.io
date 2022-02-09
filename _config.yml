@@ -106,7 +106,7 @@ footer:
 include:
   # - .htaccess
   - "_pages"
-  - plants
+  - "植物"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -248,14 +248,3 @@ defaults:
       comments: false
       share: false
       related: true
-  - scope:
-      path: "plants"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: true
-      category: "植物"
