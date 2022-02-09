@@ -1,6 +1,6 @@
 ---
 title:  "藏红花 (Saffron Crocus)"
-tags: ["植物"]
+categories : ["植物"]
 classes: wide
 ---
 
@@ -13,5 +13,5 @@ classes: wide
 * 藏红花在古代被认为有药用效果，埃及艳后克利奥帕特拉曾用它泡水洗澡。
 
 
-| ![](/plants/assets/images/saffron_crocus.jpg) | ![](/plants/assets/images/saffron_crocus_drawing.jpg) |
+| ![](assets/images/saffron_crocus.jpg) | ![](assets/images/saffron_crocus_drawing.jpg) |
 
