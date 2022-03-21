@@ -20,7 +20,7 @@ San Miguel河发源于环抱在Telluride周围的San Juan山脉中，穿过小�
 
 ![Beaver Pona, Telluride](https://ik.imagekit.io/wavelet/2021-Colorado/tr:n-blogs/PXL_20210926_142859269.PANO_Bwca5QFn6.jpg)
 ![从山顶直达城中的雪道，Telluride](https://ik.imagekit.io/wavelet/2021-Colorado/tr:n-blogs/PXL_20210926_152313554_H1Fa0oJlJPCt.jpg)
-![Telluride](https://ik.imagekit.io/wavelet/2021-Colorado/PXL_20210926_144739849_MHdCe2JjH.jpg)
+![Telluride](https://ik.imagekit.io/wavelet/2021-Colorado/tr:n-blogs/PXL_20210926_144739849_MHdCe2JjH.jpg)
 
 我沿着San Miguel河边的小路跑回旅馆，和领导回合，又回到城中，这一次可以边走边逛。我们在一家叫The Butcher & The Baker的餐馆吃了早餐。这家餐馆是旅馆推荐的，果然很受欢迎，队伍一直排到了门外，端上来的餐点也确实没有让我们失望。
 
