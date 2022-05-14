@@ -1,3 +1,8 @@
+---
+title:  "Last Dollar Road"
+classes: wide
+---
+
 今天的计划是早晨先徒步爬山，从Mountain Village出发，走Ridge Trail爬升到缆车的最高点San Sophia Station；然后再走Village Trail下山回到度假村。全程大约11公里。
 
 山路的起点就是缆车车站，开始的一段标记的不是很清楚，和下山的自行车道混在一起。我仔细看着地图，还是反复了几次才找到想走的路。基本上是向着山脊的方向，就不会错太多。Ridge Trail的山路比较陡，大多是10到15度的上坡。先是一段之字型的山路，然后就是沿着山脊一直向上。
