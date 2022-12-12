@@ -23,7 +23,7 @@ Wedding Canyon Trail的尽头就在“独立纪念碑”（Independence Monument
 我在爬山的时候，领导在城里逛街，有一阵雨还下得很大。回来看手机照片，能够对得上我走到某个地方的时候，领导在哪个店里，仿佛有一种时空交错的共同体验，也挺很有意思。我回到城里，领导又陪我逛了一圈，去了不错的咖啡店和乐器店。Grand Junction市中心的街道两旁有很多风格各异的雕塑，有的写实，记录人物、历史，有的抽象，有的又很搞笑风趣，值得一游。
 ![Grand Junction](https://ik.imagekit.io/wavelet/2021-Colorado/tr:n-blogs_w/PXL_20210930_212138818.jpg)
 ![Grand Junction](https://ik.imagekit.io/wavelet/2021-Colorado/tr:n-blogs_w/IMG_3833.jpg)
-![Grand Junction](https://ik.imagekit.io/wavelet/2021-Colorado/tr:n-blogs_w/PXL_20210930_220927355.jpg)
+![Grand Junction](https://ik.imagekit.io/wavelet/2021-Colorado/tr:n-blogs_h/PXL_20210930_220927355.jpg)
 ![Grand Junction](https://ik.imagekit.io/wavelet/2021-Colorado/tr:n-blogs_w/PXL_20210930_222551393.jpg)
 
 中午在一家市区外的泰国餐馆吃了午饭，下午稍事休息，傍晚再访Monument Canyon。这一次是开车上到峡谷的顶部，公路沿着山崖的边缘蜿蜒向前。上山的时候，一侧就是悬崖，还真有些紧张，要小心而行。
