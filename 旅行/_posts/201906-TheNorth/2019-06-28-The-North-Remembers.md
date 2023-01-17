@@ -26,7 +26,7 @@ classes: wide
 
 ![Flight to Ilulissat, Reykjavik Airport, Iceland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/IMG_20190628_103426.jpg)
 
-看看飞机快降落的时候景色！
+看看飞机快降落的时候地貌！
 
 ![Landing in Ilulissat, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/IMG_20190628_135719.jpg)
 
@@ -35,7 +35,7 @@ classes: wide
 ![Hotel Icefiord, Ilulissat, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/IMG_20190628_125341.jpg)
 ![Hotel Icefiord, Ilulissat, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/IMG_20190628_125520.jpg)
 
-虽然已经过了午饭的时间，但旅馆的餐厅还是有些小点可供选择。趁等菜的间隙，我又出去走了一圈。格陵兰岛民宿的特色是颜色各异的小房子。从旅馆向南走，有很多这样的房子沿海而建，我就在路边拍下了这张照片。近处是路边的野菊花，远处是海湾中漂浮的冰山。
+虽然已经过了午饭的时间，但旅馆的餐厅还是有些小点可供选择。趁等菜的间隙，我出去走了一圈。格陵兰岛民宿的特色是颜色各异的小房子。从旅馆向南走，有很多这样的房子沿海而建，我就在路边拍下了这张照片。近处是路边的野菊花，远处是海湾中漂浮的冰山。
 
 ![Near Hotel Icefiord, Ilulissat, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/IMG_20190628_132044-01.jpg)
 
@@ -46,13 +46,13 @@ classes: wide
 
 Ilulissat位于格陵兰岛的西海岸，虽然不是首府，却是格陵兰岛的最有名的城市。这主要是得益于附近的冰湾在2004年被联合国教科文组织定为世界遗产，Ilulissat在格陵兰语中就是冰山的意思。从四千多年前开始，Ilulissat就有人类居住，以打鱼和狩猎为生，直到最近几十年，旅游业才逐渐成为当地的支柱产业。
 
-下午，我们沿着海边在小城的一侧转了一圈。Ilulissat实际上是位于Disko湾的最深处，在Disko湾的周边还有很多小城市，有的可能只能被称为定居点，居民在这些城市之间乘船来往。一但出了城区，格陵兰岛的城市之间是没有公路的。在面向海湾的地方有一座锡安教堂，教堂建于1779年，是格陵兰岛最古老的教堂之一，也是Ilulissat城中最上镜的地方。此外，我们还参观了教堂附近一座小博物馆。
+下午，我们沿着海边在小城的一侧转了一圈。Ilulissat位于Disko湾的最深处。在Disko湾的周边还有很多小城市，有的可能只能被称为定居点，居民在这些城市之间乘船来往。一但出了城区，格陵兰岛的城市之间是没有公路的。在面向海湾的地方有一座锡安教堂，教堂建于1779年，是格陵兰岛最古老的教堂之一，也是Ilulissat城中最上镜的地方。此外，我们还参观了教堂附近一座小博物馆。
 
 ![Zion's Church, Ilulissat, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_90A1615.jpg)
 ![The Ilulissat Museum, Ilulissat, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_90A1610-Edit.jpg)
 ![The Ilulissat Museum, Ilulissat, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_h/_90A1611.jpg)
 
-时值六月下旬，正是最温暖的时节，城里到处都是各色野花，以红、黄、白为最多。其中最引人注目的就是棉花草（[Cotton Grass](https://en.wikipedia.org/wiki/Eriophorum)），又叫羊胡子草，花是白色的毛毛球，主要生长于北半球寒冷地带，矮矮的长成一片，很有特色。
+时值六月下旬，正是最温暖的季节，城里到处都是各色野花，以红、黄、白为最多。其中最引人注目的就是棉花草（[Cotton Grass](https://en.wikipedia.org/wiki/Eriophorum)），又叫羊胡子草。花是白色的毛毛球，主要生长于北半球寒冷地带，矮矮的长成一片，很有特色。
 
 ![Dinner in Hotel Icefiord](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_90A1614.jpg)
 
