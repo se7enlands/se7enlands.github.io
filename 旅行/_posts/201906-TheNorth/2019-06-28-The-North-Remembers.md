@@ -54,7 +54,7 @@ Ilulissat位于格陵兰岛的西海岸，虽然不是首府，却是格陵兰�
 
 时值六月下旬，正是最温暖的季节，城里到处都是各色野花，以红、黄、白为最多。其中最引人注目的就是棉花草（[Cotton Grass](https://en.wikipedia.org/wiki/Eriophorum)），又叫羊胡子草。花是白色的毛毛球，主要生长于北半球寒冷地带，矮矮的长成一片，很有特色。
 
-![Dinner in Hotel Icefiord](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_90A1614.jpg)
+![Cotton Grass field near Zion's Church](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_90A1614.jpg)
 
 旅馆的晚餐非常丰盛，又是新鲜烹制、漂亮可口的海鲜。不过一天的活动还没有结束，Ilulissat位于北极圈内300公里，六月底正值北半球的极昼，没有日落，我们的游览才刚刚开始。
 
