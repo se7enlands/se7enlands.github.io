@@ -3,7 +3,7 @@ title:  "Ilulissat蓝线徒步"
 classes: wide
 ---
 
-昨天走了Ilulissat的黄线，今天打算走蓝线。上午我们还在城里好好逛了一番，后文再述。
+昨天走了Ilulissat的黄线，今天打算走蓝线。上午我们还在城里逛了一番，后文再述。
 
 ![Ilulissat trail map, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/North-Ilulissat-hiking-Icefjord-map.jpg)
 
@@ -19,9 +19,9 @@ classes: wide
 ![Ilulissat blue trail, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_MG_0884.jpg)
 ![Ilulissat blue trail, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_MG_0897.jpg)
 
-走蓝线全程的人很少，我一路走过来一个人都没见到，除了一个迎面跑来的年轻女孩儿。是的，是在跑！要知道步道并不平坦，碎时路居多，有时还要翻越大石。不过我那时还没有开始跑步，体力也不如现在，如果是今天我相信也可以跑下来。
+走蓝线全程的人很少，我一路走过来一个人都没见到，除了一个迎面跑来的年轻女孩儿。是的，是在跑！要知道步道并不平坦，碎石路居多，有时还要翻越大石。不过我那时还没有开始跑步，体力也不如现在，如果是今天我相信也可以跑下来。
 
-昨天走黄线的时候，一直走在半山腰的位置，没有下到峡湾边。蓝线基本沿着峡湾而行，虽然不是紧挨着岸边，但是高度几乎与冰山平齐，从这个角度，可以更清楚地看到冰山的形状，有的高挺，有的平齐，有的是一道道山尖林立、参差不齐。其中有一座冰山，形如珠峰，如刀锋般向上耸立，高出别人一头，非常引入注目。
+昨天走黄线的时候，一直走在半山腰的位置，没有下到峡湾边。蓝线基本沿着峡湾而行，虽然不是紧挨着岸边，但是高度几乎与冰山平齐，从这个角度，可以更清楚地看到冰山的形状，有的高挺，有的平整，有的是一道道山尖林立、参差不齐。其中有一座冰山，形如珠峰，如刀锋般向上耸立，高出别人一头，非常引入注目。
 ![Ilulissat blue trail, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_90A2173.jpg)
 ![Ilulissat blue trail, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_90A2174.jpg)
 ![Ilulissat blue trail, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_90A2178.jpg)
@@ -37,7 +37,7 @@ classes: wide
 山的高处有一个小湖，风景不错。我在湖边坐了一会儿，稍事休息。看多了峡湾里的庞然大物，小湖小景感觉很清静，天上还下起了雨点。
 ![Ilulissat blue trail, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_MG_0915.jpg)
 
-步道从这里向左拐，这一段山路像是两座山间的峡谷，又有点像人为凿出来的，因为翻过山就是采石场。山路上满是乱石，很不好走，也有点累了。我一路走来，一直觉得背包里有个圆圆的东西，不知道是什么，现在才仔细摸了一下，原来是个橘子，香甜多汁，正好补充体力。意外的惊喜却是雪中送炭，至今我还时常提起、时常回味那一枚小小的橘子带来的美妙感觉。
+步道从这里向左拐，这一段山路像是两座山间的峡谷，又有点像人为凿出来的，因为翻过山就是采石场。山路上满是乱石，很不好走，也有点累了。我一路走来，一直觉得背包里有个圆圆的东西，不知道是什么，现在才仔细摸了一下，原来是个橘子，香甜多汁，正好补充体力。意外的惊喜却是雪中送炭，至今我还时常回味、时常提起那一枚小小的橘子带来的美妙感觉。
 ![Ilulissat blue trail, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/IMG_20190701_195750.jpg)
 
 翻过山道的最高点，已经能看到Ilulissat的城市，后面就是漂着冰山的Disko Bay，远处的山峦就是我们刚刚去过的Disko Island。
@@ -47,4 +47,4 @@ classes: wide
 ![Ilulissat blue trail, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_MG_0932-Pano.jpg)
 ![Ilulissat blue trail, Greenland](https://ik.imagekit.io/wavelet/2019-Greenland/tr:n-blogs_w/_90A2214.jpg)
 
-我是下午五点出发，回到旅馆已经是九点多，餐厅已经关门。我跟厨房要了一杯啤酒，在房间吃着领导带回来的外卖，一样惬意。
+我下午五点出发，回到旅馆已经是九点多，餐厅已经关门。我跟厨房要了一杯啤酒，在房间吃着领导带回来的外卖，一样惬意。
