@@ -143,10 +143,16 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: false
-excerpt_separator: "<!--more-->"
-incremental: false
+# lsi: false
+# excerpt_separator: "<!--more-->"
+# incremental: false
 
+excerpt:
+#   default_image: /assets/images/default-image.jpeg  # Default image when the image style is not none
+#   image_style: z          # Image layout style (It's value could be none, left, right, top, z, z-reverse)
+#   image_width: 38.2%      # Image default width
+#   image_height: 160px     # Image default height
+  text_size: 200
 
 # Markdown Processing
 kramdown:
@@ -168,7 +174,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title
-paginate: 5 # amount of posts to show
+paginate: 6 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
