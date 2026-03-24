@@ -223,6 +223,13 @@ compress_html:
   ignore:
     envs: development
 
+navigation:
+  - title: 音乐会
+    url: /categories/#音乐会
+  - title: 旅行
+    url: /categories/#旅行
+  - title: 植物
+    url: /categories/#植物
 
 # Defaults
 defaults:
