@@ -1,6 +1,10 @@
 ---
-title:  "冰岛高地 - Landmannalaugar"
-classes: wide
+title:  "冰岛高地徒步 - Landmannalaugar to Hrafntinnusker"
+date: 2024-08-10 19:00:00
+categories: [欧洲]
+tags: [冰岛，徒步]
+image:
+  path: /旅行/assets/images/2024-08-10-Landmannalaugar.jpg)
 ---
 
 大约上午11点，我们一行人在Laugavegur起点合影，开始4天55公里的徒步。
@@ -33,7 +37,7 @@ classes: wide
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_h/_DSC7166.jpg)
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/DJI_20240810215029_0040_D.jpg)
 
-我放起无人机，在广角变形下，眼前的山谷变化成好像一副面具，两湾湖水正好是两只眼睛。我们从右边的岩浆岩区域走过来，要一直爬到山顶。
+我放起无人机，在广角变形下，眼前的山谷看起来好像一副面具，两湾湖水正好是两只眼睛。我们从右边的岩浆岩区域走过来，要一直爬到山顶。
 
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_h/Pano_0810_0034-Edit-Edit.jpg)
 
@@ -46,7 +50,7 @@ classes: wide
 
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_h/_DSC7254-Enhanced-NR.jpg)
 
-途中的一片平地上有一座火山岩堆砌的小石堆，2004年6月25日，25岁的Ido Keinan独自踏上冰岛高地。连续几天的暴风雨仍在肆虐，能见度很差，Ido的行装准备也不够充分。他在距离下一个山屋，Hrafntinnusker，不远的地方迷失了方向，最终因失温而死。后人堆起这个石堆，提醒着来探索高地的人，最大的风险可能隐藏在最美的风景之中，对大自然要永远保持尊重。
+途中的一片平地上有一座火山岩堆砌的小石堆，2004年6月25日，25岁的Ido Keinan独自踏上冰岛高地。连续几天的暴风雨仍在肆虐，能见度很差，Ido的行装准备也不够充分。他在距离下一个山屋不远的地方迷失了方向，最终因失温而死。后人堆起这个石堆，提醒着来探索高地的人，最大的风险可能隐藏在最美的风景之中，对大自然要永远保持尊重。
 
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240810_165400077.jpg)
 
@@ -55,12 +59,12 @@ classes: wide
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240810_170509002.jpg)
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240810_171650575.jpg)
 
-Ido Keinan去世的地方离Hrafntinnusker只有不到一公里，走了半个小时，已经看到山屋已经不远。
+Ido Keinan去世的地方离Hrafntinnusker只有不到一公里，走了半个小时，几间小屋出现在山坳背后。
 
 ![Hrafntinnusker](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240810_171703889.jpg)
 
-
 到达山屋的时候是下午五点半。山屋分上下两层，大概住了三四十人。外面冷飕飕，屋子里面却是人气腾腾。
+
 ![Hrafntinnusker](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240810_173743777.jpg)
 ![Hrafntinnusker](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240810_180113329.jpg)
 
