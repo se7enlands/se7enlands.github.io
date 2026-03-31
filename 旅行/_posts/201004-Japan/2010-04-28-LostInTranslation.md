@@ -1,5 +1,5 @@
 ---
-title:  "Lost in Translation"
+title:  "东京 - Lost in Translation"
 classes: wide
 ---
 
