@@ -6,7 +6,7 @@ tags: [冰岛, 徒步]
 excerpt_image: /旅行/assets/images/202408-IcelandHighland/2024-08-10-Landmannalaugar.jpg
 ---
 
-大约上午11点，我们一行人在Laugavegur起点合影，开始4天55公里的徒步。
+大约上午十一点，我们一行人在Laugavegur起点合影，开始4天55公里的徒步。
 
 ![Start post of Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240810_111310777.jpg)
 

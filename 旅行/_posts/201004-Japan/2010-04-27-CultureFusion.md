@@ -12,7 +12,7 @@ excerpt_image: /旅行/assets/images/201004-Japan/2010-04-27-CultureFusion.jpg
 
 许多日本传统深受中国的影响，在日本得到了很好的保护与重视。深厚的文化底蕴与相对集中的景点，让日本成为理想的旅游目的地。
 
-![Sunrise in Ginzal](https://ik.imagekit.io/wavelet/2010-Japan/tr:n-blogs_w/_MG_0126.jpg)
+![Sunrise in Ginza](https://ik.imagekit.io/wavelet/2010-Japan/tr:n-blogs_w/_MG_0126.jpg)
 ![Yamaha Store in Ginza](https://ik.imagekit.io/wavelet/2010-Japan/tr:n-blogs_w/_MG_0204.jpg)
 
 ![Kabuki-za (歌舞伎座)](https://ik.imagekit.io/wavelet/2010-Japan/tr:n-blogs_h/_MG_0217.jpg)
