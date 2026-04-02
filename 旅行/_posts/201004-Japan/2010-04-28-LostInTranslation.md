@@ -1,6 +1,9 @@
 ---
+layout: post
 title:  "东京 - Lost in Translation"
-classes: wide
+date: 2010-04-28 19:00:00
+tags: [日本, 城市]
+excerpt_image: /旅行/assets/images/201004-Japan/2010-04-28-LostInTranslation.jpg
 ---
 
 日本是我们造访的第一个语言不通的国家。好在几乎所有的地名、地铁站、街道以及店名都带有汉字（Kanji），这让我们省了不少心。汉字对我们来说不仅易于识别记忆，大多时候还能直接猜出意思；如果换成纯假名，恐怕看起来大同小异，记起来也难得多。
