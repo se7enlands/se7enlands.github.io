@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "山城秋色 - Last Dollar Road"
-date: 2024-08-11 19:00:00
+date: 2021-09-27 19:00:00
 tags: [美国, 科罗拉多州, 秋色]
 excerpt_image: /旅行/assets/images/202109-Colorado/2021-09-27-Last-Dollar-Road.jpg
 ---

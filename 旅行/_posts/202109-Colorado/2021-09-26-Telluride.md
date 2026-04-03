@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "山城秋色 - Telluride"
-date: 2024-08-11 19:00:00
+date: 2021-09-26 19:00:00
 tags: [美国, 科罗拉多州, 徒步, 秋色, 城市]
 excerpt_image: /旅行/assets/images/202109-Colorado/2021-09-26-Telluride.jpg
 ---
