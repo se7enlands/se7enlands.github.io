@@ -1,6 +1,9 @@
 ---
-title:  "Telluride"
-classes: wide
+layout: post
+title:  "山城秋色 - Telluride"
+date: 2024-08-11 19:00:00
+tags: [美国, 科罗拉多州, 徒步, 秋色, 城市]
+excerpt_image: /旅行/assets/images/2021-09-26-Telluride.jpg
 ---
 
 早晨起来打算先去城里跑步。虽然跑步是疫情前开始的，但是确实是在疫情中跑得越来越长。每到一个地方都事先计划哪里可以跑，取代了原来早晨去城里走一圈照相的项目。

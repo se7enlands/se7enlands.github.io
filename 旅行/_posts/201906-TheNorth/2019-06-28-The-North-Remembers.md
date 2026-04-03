@@ -1,6 +1,9 @@
 ---
-title:  "The North Remembers"
-classes: wide
+layout: post
+title:  "格陵兰岛 - The North Remembers"
+date: 2019-06-28 19:00:00
+tags: [格陵兰岛]
+excerpt_image: /旅行/assets/images/201906-TheNorth/2019-06-28-The-North-Remember.jpg
 ---
 
 说到北方，自然就会联想到《权力的游戏》中的台词，The North Remembers！我们经历的北方没有权游里的残酷无情，有的是同样的遥远和壮美，那就用这句话作为这次游记的开篇吧。

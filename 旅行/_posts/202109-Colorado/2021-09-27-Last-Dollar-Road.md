@@ -1,6 +1,9 @@
 ---
-title:  "Last Dollar Road"
-classes: wide
+layout: post
+title:  "山城秋色 - Last Dollar Road"
+date: 2024-08-11 19:00:00
+tags: [美国, 科罗拉多州, 秋色]
+excerpt_image: /旅行/assets/images/202109-Colorado/2021-09-27-Last-Dollar-Road.jpg
 ---
 
 今天的计划是早晨先徒步爬山，从Mountain Village出发，走Ridge Trail爬升到缆车的最高点San Sophia Station；然后再走Village Trail下山回到度假村。全程大约11公里。

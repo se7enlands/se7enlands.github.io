@@ -1,6 +1,9 @@
 ---
-title:  "Ilulissat蓝线徒步"
-classes: wide
+layout: post
+title:  "格陵兰岛 - Ilulissat蓝线徒步"
+date: 2019-07-01 19:00:00
+tags: [格陵兰岛, 徒步]
+excerpt_image: /旅行/assets/images/201906-TheNorth/2019-07-01-Ilulissat-Blue-Trail.jpg
 ---
 
 昨天走了Ilulissat的黄线，今天打算走蓝线。上午我们还在城里逛了一番，后文再述。

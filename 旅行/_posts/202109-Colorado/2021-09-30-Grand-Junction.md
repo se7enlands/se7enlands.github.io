@@ -1,6 +1,9 @@
 ---
-title:  "Grand Junction"
-classes: wide
+layout: post
+title:  "山城秋色 - Grand Junction"
+date: 2024-08-11 19:00:00
+tags: [美国, 科罗拉多州, 城市]
+excerpt_image: /旅行/assets/images/202109-Colorado/2021-09-30-Grand-Junction.jpg
 ---
 
 早上和领导分头行动，领导在城里逛街，我去城西北方向的Monument Canyon爬山。这个名字首先让人想到的是位于犹他州的Monument Valley，以孤峰巨石闻名。Monument Canyon也有类似的景观，规模数量上都小一些。从Grand Junction出发开车要20分钟左右，这个距离足够产生天气的差异。天气预报说城里会下雨，但是降水不会经过公园。事实证明天气预报还是靠谱的。
