@@ -175,14 +175,16 @@ sass:
 
 # Outputting
 permalink: /:categories/:title
-paginate: 6 # amount of posts to show
-paginate_path: /page:num/
+pagination:
+  enabled: true
+  paginate: 6 # amount of posts to show
+  paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
@@ -190,7 +192,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
 
