@@ -186,6 +186,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-spaceship
   - jekyll-youtube
 
 # mimic GitHub Pages with --safe
@@ -193,6 +194,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-spaceship
   - jekyll-youtube
 
 # Archives
