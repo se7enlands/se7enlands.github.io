@@ -186,14 +186,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
-
+  - jekyll-youtube
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-
+  - jekyll-youtube
 
 # Archives
 #  Type
