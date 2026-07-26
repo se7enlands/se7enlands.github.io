@@ -21,17 +21,21 @@ excerpt_image: /旅行/assets/images/202408-IcelandHighland/2024-08-13-EmstrurTh
 我们7:45出发，今天的路程是15公里。开始的一段路和昨天相似，在丘陵山谷中穿行，脚下是黑色的火山石砾。
 
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_081259738.jpg)
+
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_083445262.jpg)
 
 途中跨过几条河流。这段路程一路下行，河水切开山谷，在黑色的火山岩间弯折迂回。河道不宽，水流很急，有步行桥可以通过。
 
 ![Fremri-Emstruá river](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/DJI_20240813164904_0056_D.jpg)
+
 ![Fremri-Emstruá river](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_082717352.jpg)
+
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_075703226.jpg)
 
 每天行走在这条路线上的徒步者不过百余人，很快就会走散，大多三三两两而行，经常前后望不到人，只有自己的身影。我相信这正是徒步者追求的体验，远离尘嚣，行走本身就是修行。或许你惊叹于大山大水的壮美，或许感悟到人类的渺小，但是那每一次的呼吸、每一步的落脚，最终会把你带向想要达到的终点。
 
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_090537093.jpg)
+
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/DJI_20240813173041_0057_D-Pano-Enhanced-NR.jpg)
 
 走了大约三个小时，渐渐走出起伏褶皱的山间沟壑，进入一片平坦的路段。道路沿着Markarfljót河而行，有了一条条小河的加入，又摆脱了山体的束缚，河道变宽了许多。
@@ -42,9 +46,10 @@ excerpt_image: /旅行/assets/images/202408-IcelandHighland/2024-08-13-EmstrurTh
 
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_h/PXL_20240813_105547104.jpg)
 
-又走了快一个小时，Ljósá河好像一条分界线，一边是只有地衣、杂草的黑色火山石，另一边则是有草甸、有灌木的林地。Ljósá河在这里宽不过两三米，水流很急，有窄桥供人通过，在不远处也将汇入Markarfljót河。
+又走了快一个小时，Ljósá河像一条分界线，一边是只有地衣、杂草的黑色火山石，另一边则是有草甸、有灌木的林地。Ljósá河在这里宽不过两三米，水流很急，有窄桥供人通过，在不远处也将汇入Markarfljót河。
 
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_113609352.jpg)
+
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/_DSC7701.jpg)
 
 
@@ -55,6 +60,7 @@ excerpt_image: /旅行/assets/images/202408-IcelandHighland/2024-08-13-EmstrurTh
 这里的海拔已经不足300米。过了Þröngá河，植被从草甸和灌木变成茂密的桦树林。1920年的时候，因为过度放牧和砍伐，这片树林已经消失殆尽，沙尘暴时常发生。每到下雨，雨水河水又会带走大量泥沙，淤积泛滥。从那时起，这片区域用栅栏包围起来，防止羊群进入，桦树林又重新得以生长繁衍。在冰岛的其他地方是很难见到树木的，这里却有大片的树林，这是自然的奇迹，也是人类和自然和谐共处的范例。
 
 ![Hamraskógar forest](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_125035110.jpg)
+
 ![Laugavegur Trail](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_131351083.jpg)
 
 我们今天不去Laugavegur的终点，而是先在Husadalur营地过夜。从过河到营地还有两三公里的距离，又走了一个小时终于到达。今天的15公里走了大约六个小时。
@@ -62,5 +68,7 @@ excerpt_image: /旅行/assets/images/202408-IcelandHighland/2024-08-13-EmstrurTh
 Husadalur营地有高地巴士到达，条件不可与前面的山屋同日而语。一到营地就赶快享用了一顿自助餐，特别是羊肉汤，分外鲜美。
 
 ![Húsadalur, Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_144811233.jpg)
+
 ![Húsadalur, Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_183812728.jpg)
+
 ![Húsadalur, Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240813_135443498.jpg)
