@@ -52,27 +52,27 @@ Husadalur营地背后的山上有几个不错的拍摄点。傍晚的时候和�
 
 首先还是要走到Langidalur的山屋，从这里开始，橘黄线沿着Krossá河平缓前行。云雾低垂，压在河谷周围的山上。看多了照片中冰岛的壮丽，也许这样的风景才是冰岛的常态。
 
-![Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/_DSC7944.jpg)
+![Orange Loop, Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/_DSC7944.jpg)
 
 而后小路转入山中，逐渐上升，雨开始零零星星地下了起来。
 
-![Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_082711554.jpg)
+![Orange Loop, Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_082711554.jpg)
 
 绕过Tindfjöll的山顶，到达了环线的最高点。本来朋友说从这里向东有些拍照的机位，只是此时云雾缭绕，能见度估计二三十米的样子。我稍作休息，就继续沿着环线下山。
 
-![Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_084105997.jpg)
+![Orange Loop, Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_084105997.jpg)
 
-![Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_085636544.jpg)
+![Orange Loop, Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_085636544.jpg)
 
 这一侧的山路在半山腰沿着另一条河的河谷延申，一路上看到几队迎面而来的徒步者，都是有人带队的，看来顺时针走才是正途。
 
-![Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_092026798.jpg)
+![Orange Loop, Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_092026798.jpg)
 
-![Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_093821034.jpg)
+![Orange Loop, Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_093821034.jpg)
 
 雨一直下个不停，身上的冲锋衣经受住了考验，在雨中走了两个多小时，内里有些微微发潮，里面的衣服还是干的。不过裤子袜子就没有那么幸运，特别是后面穿过树林灌木丛，因为没有穿防水的裤子，雨水顺着裤脚进到鞋里。
 
-![Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240814_122333055.jpg)
+![Orange Loop, Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240814_122333055.jpg)
 
 走完环线大约花了四个小时的时间，回到Husadalur营地不过上午11点。我在大厅里吃了午饭，等待下午的大巴回城。大厅里的人很多，但是暖气大多没有什么热意，更让人感觉天气的阴冷。
 
@@ -84,6 +84,6 @@ Husadalur营地背后的山上有几个不错的拍摄点。傍晚的时候和�
 
 我在出城不远吃了晚饭。这里离今晚Vik镇附近的旅馆还有两个多小时的车程。到达旅馆的时候下着瓢泼大雨，已经是晚上十点多，真的有些狼狈，but, tomorrow is another day!
 
-![Þórsmörk](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_202715041.jpg)
+![Reykjavík](https://ik.imagekit.io/wavelet/2024-IcelandHighland/tr:n-blogs_w/PXL_20240815_202715041.jpg)
 
 
